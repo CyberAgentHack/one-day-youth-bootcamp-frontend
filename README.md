@@ -1,6 +1,6 @@
 # one-day-youth-bootcamp-frontend
 
-CA 1Day Youth Boot Camp フロントエンド　ハンズオンの叩きリポジトリです
+CA 1Day Youth Boot Camp フロントエンド　ハンズオンリポジトリです
 
 ## ディレクトリ構成
 
@@ -16,7 +16,7 @@ CA 1Day Youth Boot Camp フロントエンド　ハンズオンの叩きリポ�
 
 `course`ディレクトリにハンズオン用のファイルを格納しています。
 
-yarn workspace を使って似非 monorepo 化しています。カレントディレクトリで以下を実行すれば依存モジュールがインストールできます。
+yarn workspace を使ってmonorepo化しています。カレントディレクトリで以下を実行すれば依存モジュールがインストールできます。
 
 ```shell
 yarn install
