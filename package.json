@@ -1,0 +1,18 @@
+{
+  "name": "ai-intern-frontend-react-scaffold",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CyberAgentAI/ai-intern-frontend-react-scaffold.git",
+  "author": "texdeath <texdeath@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "react-only:build": "yarn workspace react-only run build",
+    "react-only:dev": "yarn workspace react-only run dev",
+    "react-typescript:build": "yarn workspace react-typescript run build",
+    "react-typescript:dev": "yarn workspace react-typescript run dev"
+  },
+  "workspaces": [
+    "course/*"
+  ]
+}
