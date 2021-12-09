@@ -1,4 +1,4 @@
-# ai-intern-frontend-react-scaffold
+# one-day-youth-bootcamp-frontend
 
 CA 1Day Youth Boot Camp フロントエンド　ハンズオンの叩きリポジトリです
 
